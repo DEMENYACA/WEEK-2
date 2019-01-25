@@ -1,37 +1,13 @@
-h1{
-    color: slategray;
-    font-size:70px;
-    text-align: right;
-    background: lightyellow;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+body{
+background-color: url("star.png");
+background-position: 20ox 10px;
+background-repeat: no repeat;
 }
 p{
- color: rgb(5, 76, 146);
- font-size: 25px;
-} 
-h5{
-    color: lightgrey;
-    font-size: 100px;
-    text-align: center;
-    font-family: fantasy;
-    font-style: oblique;
-    font-weight: 100;
+  background-color: white
+
+.border-double{
+    border: 6px double blue;
 }
-h2{
-    color: red;
-    font-size: 35;
-}
-h3{
-    color:dodgerblue;
-    font-size: 35;
-}
-h4{
-    color: rgb(20, 3, 3);
-    font-size: 35px;
-}
-/*first SUCCESSFUL USE OF DIV YAAAAY!!!*/
-.first{
-    color: Slategrey;
-    background-color: lightgrey;
-    text-align: left;
+
 }
